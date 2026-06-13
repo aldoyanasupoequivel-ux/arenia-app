@@ -1,0 +1,1026 @@
+{
+  "about_title": "HUMEDAL COSTERO\nPOZA DE LA ARENILLA",
+  "about_history_title": "HISTORIA",
+  "about_history_p1": "El Humedal Costero Poza de La Arenilla se encuentra en la costa sur del distrito de La Punta, ocupando un área de 18.2 hectáreas. Es un entorno artificial de aguas costeras semi-estancadas, originado por la construcción de dos rompeolas que protegen la orilla sur del distrito, lo que permitió la creación de una zona de aguas tranquilas donde comenzaron a habitar diversas especies acuáticas, desarrollando las características de un humedal típico. La circulación de agua en la Poza de La Arenilla depende principalmente de los cambios de mareas y, en menor medida, de la dirección e intensidad del viento.",
+  "about_history_p2": "Esta área se ha convertido en un refugio para diversas especies acuáticas, incluyendo aves migratorias y residentes, peces, crustáceos y plantas, que encuentran en la Poza de La Arenilla un espacio ideal para reproducirse, alimentarse y descansar. Además de su valor ecológico, constituye un lugar de interés científico y turístico.",
+  "about_biodiv_title": "BIODIVERSIDAD",
+  "about_biodiv_p1": "Nuestro recurso turístico cuenta con un total de 104 especies de aves registradas, entre residentes y migratorias. Asimismo, es el hogar de 56 especies de peces, 21 de las cuales son de aguas cálidas y 6 tipos de crustáceos. Por su extensión y la biodiversidad que se encuentra en él, el Humedal Costero Poza de La Arenilla es el más pequeño de la región Callao, sin embargo, es el que concentra la mayor cantidad de flora y avifauna. Ello lo convierte en un espacio único para la observación de aves y el estudio de ecosistemas costeros en una zona urbana.",
+  "about_tourism_title": "TURISMO\nECOLÓGICO",
+  "about_tourism_p1": "Desde 1999, la Municipalidad Distrital de La Punta protege el Humedal Costero Poza de La Arenilla como Zona Reservada y se encarga de su conservación, preservación y de la promoción turística. Asimismo, fomenta actividades educativas y visitas guiadas en más de dos idiomas, para resaltar su valor ecológico y biodiversidad, atrayendo a turistas interesados en la naturaleza.",
+  "btn3Title": "Sobre el humedal",
+  "btn3Sub": "Conoce La Arenilla y su historia",
+  "scan_title": "Escanear Especie",
+  "scan_instruction": "Toma una foto o selecciona una imagen de tu galería para identificar una especie del humedal",
+  "scan_take_photo": "Tomar Foto",
+  "scan_from_gallery": "Elegir de Galería",
+  "scan_analyzing": "Analizando especie...",
+  "scan_analyzing_hint": "Esto puede tomar unos segundos",
+  "scan_species_found": "¡Identificada!",
+  "scan_not_found": "No encontrada",
+  "scan_not_in_db": "Esta especie no se encuentra en nuestra base de datos del humedal, pero la IA sugiere una identificación",
+  "scan_confidence": "Confianza",
+  "scan_view_article": "Ver Artículo Completo",
+  "scan_try_again": "Escanear otra",
+  "scan_error": "Error al analizar",
+  "scan_no_internet": "Se requiere conexión a internet para identificar especies",
+  "scan_unknown": "Especie desconocida",
+  "catalog_title": "Catálogo de Especies",
+  "all": "Todas",
+  "close": "Cerrar",
+  "categories": {
+    "Aves": "Aves",
+    "Crustáceos": "Crustáceos",
+    "Insectos": "Insectos",
+    "Plantas": "Plantas",
+    "Peces": "Peces",
+    "Mamíferos": "Mamíferos",
+    "Reptiles": "Reptiles"
+  },
+  "no_image": "Sin imagen",
+  "no_audio": "Audio no disponible para esta especie",
+  "audio_playing": "Reproduciendo audio...",
+  "audio_paused": "Audio pausado",
+  "image_unavailable": "Imagen no disponible",
+  "habitat": "Hábitat",
+  "diet": "Alimentación",
+  "status": "Estado",
+  "pause_desc": "Pausar descripción",
+  "play_desc": "Escuchar descripción",
+  "learn_more": "Conoce más sobre esta especie",
+  "audio_unavailable_yet": "Audio no disponible aún",
+  "back_to_catalog": "Volver al Catálogo",
+  "home_title": "Humedal La Arenilla",
+  "home_subtitle": "Cada especie importa",
+  "home_description": "Conoce y protege la biodiversidad del Humedal La Arenilla.",
+  "explore": "Explorar el humedal",
+  "species_count_label": "Especies registradas",
+  "language": "Idioma",
+  "species": {
+    "identificador_unico_sin_espacios": {
+      "name": "Nombre Común",
+      "description": "Descripción completa.",
+      "typeLabel": "Ave acuática",
+      "habitat": "...",
+      "diet": "...",
+      "status": "Residente permanente"
+    },
+    "paloma_bravia": {
+      "name": "Paloma Bravía",
+      "description": "Paloma grande común en ciudades, zonas agrícolas y elevadores de grano alrededor del mundo. Fue introducida desde Eurasia, donde anida en acantilados. La variedad silvestre se ha adaptado fácilmente para anidar en estructuras altas, incluyendo rascacielos y puentes. Presenta una amplia diversidad de colores; la mayoría son grises, pero también pueden ser negras, blancas o café-anaranjadas.",
+      "typeLabel": "Ave urbana y terrestre",
+      "habitat": "Ciudades, zonas agrícolas, acantilados, puentes, edificios altos y estructuras humanas.",
+      "diet": "Granos, semillas, frutos pequeños y restos de alimento encontrados en entornos urbanos.",
+      "status": "Preocupación menor"
+    },
+    "zenaida_peruana": {
+      "name": "Zenaida Peruana",
+      "description": "Paloma común y conspicua de tierras bajas del desierto y estribaciones. Se encuentra en una amplia variedad de hábitats abiertos y semiabiertos, desde calles y jardines urbanos hasta tierras agrícolas y oasis de palmas. Se alimenta tanto en el suelo como en los árboles. Se distingue por la banda blanca en las alas, las esquinas blancas de la cola y un característico anillo ocular azul violáceo. Su canto melancólico puede escucharse durante todo el año.",
+      "typeLabel": "Ave terrestre y urbana",
+      "habitat": "Desiertos costeros, estribaciones, jardines, parques, calles urbanas, tierras agrícolas y oasis de palmas.",
+      "diet": "Semillas, granos, frutos pequeños y otros materiales vegetales que encuentra en el suelo o en árboles.",
+      "status": "Preocupación menor"
+    },
+    "zenaida_torcaza": {
+      "name": "Zenaida Torcaza",
+      "description": "Es una de las palomas más abundantes y ampliamente distribuidas de Sudamérica. Habita desde el nivel del mar hasta los 4,000 metros de altitud. Presenta plumaje marrón grisáceo, manchas negras en las alas y cuello, y patas rojizas. Frecuentemente se observa en bandadas en áreas abiertas y perturbadas.",
+      "typeLabel": "Ave terrestre",
+      "habitat": "Campos agrícolas, ciudades, pueblos, matorrales y áreas abiertas.",
+      "diet": "Semillas, granos y pequeños frutos.",
+      "status": "Preocupación menor"
+    },
+    "amazilia_costena": {
+      "name": "Amazilia Costeña",
+      "description": "Colibrí de plumaje verde y castaño con variaciones regionales. Posee pico rojo con punta negra. Es común en bosques secos y matorrales costeros, donde se alimenta principalmente del néctar de flores.",
+      "typeLabel": "Colibrí",
+      "habitat": "Bosques secos, matorrales y zonas costeras semiáridas.",
+      "diet": "Néctar, pequeños insectos y arañas.",
+      "status": "Preocupación menor"
+    },
+    "ostrero_pio_americano": {
+      "name": "Ostrero Pío Americano",
+      "description": "Ave playera grande de plumaje blanco y negro, con un pico rojo fuerte y grueso. Habita exclusivamente zonas costeras donde busca moluscos, crustáceos y otros invertebrados.",
+      "typeLabel": "Ave playera",
+      "habitat": "Playas arenosas, costas rocosas y estuarios.",
+      "diet": "Moluscos, crustáceos y otros invertebrados marinos.",
+      "status": "Preocupación menor"
+    },
+    "zarapito_trinador_americano": {
+      "name": "Zarapito Trinador Americano",
+      "description": "Ave playera de gran tamaño con pico largo y curvado hacia abajo. Presenta plumaje marrón con rayas distintivas en la cabeza. Es una especie migratoria que frecuenta marismas, playas y humedales costeros.",
+      "typeLabel": "Ave migratoria",
+      "habitat": "Marismas costeras, lodazales, playas y humedales.",
+      "diet": "Invertebrados, gusanos, crustáceos e insectos.",
+      "status": "Preocupación menor"
+    },
+    "gaviota_andina": {
+      "name": "Gaviota Andina",
+      "description": "Hermosa gaviota característica de los Andes que también visita zonas costeras fuera de la época reproductiva. Se encuentra en lagunas, humedales, playas y desembocaduras de ríos.",
+      "typeLabel": "Ave acuática",
+      "habitat": "Lagos altoandinos, humedales, playas y desembocaduras de ríos.",
+      "diet": "Insectos, peces pequeños, crustáceos y restos orgánicos.",
+      "status": "Preocupación menor"
+    },
+    "gaviota_simeon": {
+      "name": "Gaviota Simeón",
+      "description": "Gaviota costera de tamaño grande y espalda oscura, característica de la corriente de Humboldt. Frecuenta puertos pesqueros, playas y desembocaduras de ríos.",
+      "typeLabel": "Ave marina",
+      "habitat": "Costas del Pacífico, puertos, playas y estuarios.",
+      "diet": "Peces, crustáceos, moluscos y desperdicios orgánicos.",
+      "status": "Preocupación menor"
+    },
+    "gaviota_cocinera": {
+      "name": "Gaviota Cocinera",
+      "description": "Gaviota grande de espalda negra y hábitos oportunistas. Es común en ambientes costeros donde se alimenta de peces, invertebrados y restos orgánicos.",
+      "typeLabel": "Ave marina costera",
+      "habitat": "Playas, costas rocosas, puertos y estuarios.",
+      "diet": "Peces, moluscos, crustáceos, carroña y residuos orgánicos.",
+      "status": "Preocupación menor"
+    },
+    "piquero_camanay": {
+      "name": "Piquero Camanay",
+      "description": "Ave marina costera conocida por sus llamativas patas azules. Realiza espectaculares zambullidas para capturar peces y anida en colonias ubicadas en islas y costas rocosas.",
+      "typeLabel": "Ave marina",
+      "habitat": "Islas costeras, acantilados y mar abierto cercano a la costa.",
+      "diet": "Peces pelágicos y pequeños organismos marinos.",
+      "status": "Preocupación menor"
+    },
+    "cormoran_bigua": {
+      "name": "Cormorán Biguá",
+      "description": "Cormorán de cuerpo negro especializado en la captura de peces mediante inmersiones. Suele observarse posado con las alas extendidas para secarlas después de bucear. Es una de las especies de cormoranes más ampliamente distribuidas en América.",
+      "typeLabel": "Ave acuática",
+      "habitat": "Humedales, lagunas, estuarios, manglares y costas.",
+      "diet": "Peces, crustáceos y pequeños organismos acuáticos.",
+      "status": "Preocupación menor"
+    },
+    "martinete_comun": {
+      "name": "Martinete Común",
+      "description": "Garza robusta de hábitos principalmente nocturnos. Los adultos presentan plumaje grisáceo con dorso negro y ojos rojos. Durante el día permanece oculto entre la vegetación y por la noche sale a alimentarse.",
+      "typeLabel": "Ave zancuda",
+      "habitat": "Humedales, lagunas, manglares y riberas.",
+      "diet": "Peces, ranas, insectos, crustáceos y pequeños vertebrados.",
+      "status": "Preocupación menor"
+    },
+    "garceta_azul": {
+      "name": "Garceta Azul",
+      "description": "Garza de tamaño mediano con plumaje azul grisáceo en la adultez. Se desplaza lentamente por aguas poco profundas buscando presas. Los individuos jóvenes suelen ser completamente blancos.",
+      "typeLabel": "Ave acuática",
+      "habitat": "Humedales, lagunas, estuarios y manglares.",
+      "diet": "Peces pequeños, crustáceos, anfibios e insectos.",
+      "status": "Preocupación menor"
+    },
+    "garceta_nivea": {
+      "name": "Garceta Nívea",
+      "description": "Elegante garza blanca de tamaño mediano, reconocible por sus patas negras y pies amarillos. Forrajea activamente en humedales y aguas someras buscando pequeñas presas.",
+      "typeLabel": "Ave acuática",
+      "habitat": "Humedales, lagunas, marismas y estuarios.",
+      "diet": "Peces pequeños, insectos acuáticos, crustáceos y anfibios.",
+      "status": "Preocupación menor"
+    },
+    "garceta_grande": {
+      "name": "Garceta Grande",
+      "description": "La garza blanca más grande y ampliamente distribuida. Posee un largo cuello, pico amarillo y patas negras. Caza acechando lentamente a sus presas en aguas poco profundas.",
+      "typeLabel": "Ave zancuda",
+      "habitat": "Lagunas, pantanos, humedales y orillas de ríos.",
+      "diet": "Peces, anfibios, reptiles pequeños e insectos.",
+      "status": "Preocupación menor"
+    },
+    "pelicano_alcatraz": {
+      "name": "Pelícano Alcatraz",
+      "description": "Gran ave marina característica de la corriente de Humboldt. Se alimenta mediante espectaculares zambullidas para capturar peces y suele observarse en puertos, embarcaderos y costas rocosas.",
+      "typeLabel": "Ave marina",
+      "habitat": "Costas, islas, puertos y aguas marinas cercanas al litoral.",
+      "diet": "Peces pelágicos como anchovetas y sardinas.",
+      "status": "Casi amenazada"
+    },
+    "aura_gallipavo": {
+      "name": "Aura Gallipavo",
+      "description": "Ave carroñera de gran tamaño con cabeza roja desnuda y excelente sentido del olfato. Planea aprovechando corrientes térmicas en busca de alimento.",
+      "typeLabel": "Ave carroñera",
+      "habitat": "Bosques abiertos, matorrales, zonas rurales y áreas urbanas.",
+      "diet": "Carroña y restos de animales muertos.",
+      "status": "Preocupación menor"
+    },
+    "mosquero_cardenal": {
+      "name": "Mosquero Cardenal",
+      "description": "Pequeña ave insectívora muy llamativa. Los machos presentan un intenso color rojo escarlata en el pecho y la cabeza, mientras que las hembras poseen tonos más discretos.",
+      "typeLabel": "Ave insectívora",
+      "habitat": "Campos abiertos, matorrales, parques y zonas agrícolas.",
+      "diet": "Insectos capturados en vuelo o desde perchas.",
+      "status": "Preocupación menor"
+    },
+    "sinsonte_colilargo": {
+      "name": "Sinsonte Colilargo",
+      "description": "Ave característica de los bosques secos del oeste de Perú y Ecuador. Posee cola larga, gran capacidad vocal y comportamiento curioso y territorial.",
+      "typeLabel": "Ave cantora",
+      "habitat": "Bosques secos, zonas arbustivas y áreas desérticas.",
+      "diet": "Insectos, frutos y semillas.",
+      "status": "Preocupación menor"
+    },
+    "chingolo_comun": {
+      "name": "Chingolo Común",
+      "description": "Pequeño gorrión ampliamente distribuido en América del Sur. Se reconoce por su collar color herrumbre y el patrón contrastante de la cabeza. Es frecuente en áreas urbanas y rurales.",
+      "typeLabel": "Ave paseriforme",
+      "habitat": "Praderas, zonas agrícolas, jardines, pueblos y matorrales.",
+      "diet": "Semillas, granos e insectos.",
+      "status": "Preocupación menor"
+    },
+    "zanate_matorralero": {
+      "name": "Zanate Matorralero",
+      "description": "Ave negra conspicua de áreas abiertas del oeste de Perú, Ecuador y suroeste de Colombia. Su plumaje oscuro puede mostrar reflejos azulados bajo la luz. Suele cantar desde perchas elevadas y frecuenta zonas rurales y agrícolas.",
+      "typeLabel": "Ave cantora",
+      "habitat": "Campos abiertos, áreas agrícolas, matorrales y zonas urbanas.",
+      "diet": "Insectos, semillas, frutos y pequeños invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "azafranado": {
+      "name": "Azafranado",
+      "description": "Pequeña ave de intenso color amarillo, especialmente en los machos. Es común en ambientes abiertos y secos, donde suele verse alimentándose en el suelo o formando pequeñas bandadas.",
+      "typeLabel": "Ave granívora",
+      "habitat": "Pastizales, campos agrícolas, pueblos y áreas abiertas.",
+      "diet": "Semillas, granos e insectos pequeños.",
+      "status": "Preocupación menor"
+    },
+    "ostrero_negro_americano": {
+      "name": "Ostrero Negro Americano",
+      "description": "Ave costera grande de plumaje completamente oscuro. Se distingue por su largo pico rojo anaranjado y sus robustas patas rosadas. Habita costas rocosas y playas donde busca moluscos e invertebrados.",
+      "typeLabel": "Ave playera",
+      "habitat": "Costas rocosas, playas arenosas y desembocaduras de ríos.",
+      "diet": "Moluscos, crustáceos y otros invertebrados marinos.",
+      "status": "Preocupación menor"
+    },
+    "chorlito_gris": {
+      "name": "Chorlito Gris",
+      "description": "Ave playera migratoria de tamaño grande. Durante la época reproductiva presenta vientre negro y plumaje contrastante; en invierno adopta tonos grises más uniformes.",
+      "typeLabel": "Ave migratoria",
+      "habitat": "Playas, marismas, estuarios y humedales costeros.",
+      "diet": "Insectos, crustáceos, gusanos y pequeños moluscos.",
+      "status": "Vulnerable"
+    },
+    "archibebe_patigualdo_chico": {
+      "name": "Archibebe Patigualdo Chico",
+      "description": "Ave playera de tamaño mediano reconocible por sus brillantes patas amarillas. Frecuenta humedales y zonas inundadas donde busca alimento caminando en aguas poco profundas.",
+      "typeLabel": "Ave playera",
+      "habitat": "Lagunas, estuarios, marismas y humedales.",
+      "diet": "Insectos acuáticos, crustáceos, moluscos y gusanos.",
+      "status": "Vulnerable"
+    },
+    "correlimos_de_rompientes": {
+      "name": "Correlimos de Rompientes",
+      "description": "Ave costera robusta especializada en zonas donde rompen las olas. Se alimenta en playas rocosas y costas del Pacífico, siendo fácilmente reconocible por sus patas amarillo-verdosas.",
+      "typeLabel": "Ave costera",
+      "habitat": "Costas rocosas, playas y zonas de rompientes.",
+      "diet": "Invertebrados marinos, moluscos y crustáceos.",
+      "status": "Preocupación menor"
+    },
+    "gaviota_garuma": {
+      "name": "Gaviota Garuma",
+      "description": "Gaviota característica de la corriente de Humboldt. Presenta plumaje gris oscuro y es frecuente en playas, desembocaduras de ríos y costas rocosas del Pacífico sudamericano.",
+      "typeLabel": "Ave marina",
+      "habitat": "Costas, playas arenosas, estuarios y zonas rocosas.",
+      "diet": "Peces pequeños, crustáceos e invertebrados marinos.",
+      "status": "Preocupación menor"
+    },
+    "rayador_americano": {
+      "name": "Rayador Americano",
+      "description": "Ave marina singular con una mandíbula inferior más larga que la superior. Se alimenta volando cerca de la superficie del agua y capturando peces mediante su característico método de barrido.",
+      "typeLabel": "Ave marina",
+      "habitat": "Playas, bancos de arena, estuarios y lagunas costeras.",
+      "diet": "Peces pequeños y organismos acuáticos.",
+      "status": "Preocupación menor"
+    },
+    "charran_inca": {
+      "name": "Charrán Inca",
+      "description": "Elegante ave marina de la corriente de Humboldt, famosa por sus distintivos bigotes blancos curvados. Frecuenta puertos, muelles, acantilados y costas rocosas.",
+      "typeLabel": "Ave marina",
+      "habitat": "Acantilados, puertos, muelles y costas rocosas.",
+      "diet": "Peces pequeños, anchovetas y organismos marinos.",
+      "status": "Casi amenazada"
+    },
+    "piquero_peruano": {
+      "name": "Piquero Peruano",
+      "description": "Un ave marina icónica del litoral peruano. Se agrupa en bandadas inmensas y se zambulle espectacularmente en picada desde grandes alturas para pescar. Posee patas grises parduzcas y un dorso moteado blanco y pardo.",
+      "typeLabel": "Ave marina guanera",
+      "habitat": "Océano costero, acantilados rocosos e islas marinas.",
+      "diet": "Anchoveta peruana, sardinas y peces pelágicos.",
+      "status": "Preocupación menor"
+    },
+    "zopilote_negro": {
+      "name": "Zopilote Negro",
+      "description": "Buitre grande de plumaje completamente negro. Se caracteriza por sus alas anchas, cola corta y hábitos carroñeros. Es frecuente observarlo en carreteras, ciudades y zonas abiertas buscando alimento.",
+      "typeLabel": "Ave carroñera",
+      "habitat": "Áreas abiertas, carreteras, ciudades, campos y bosques secundarios.",
+      "diet": "Carroña, restos de animales y desperdicios orgánicos.",
+      "status": "Preocupación menor"
+    },
+    "busardo_mixto": {
+      "name": "Busardo Mixto",
+      "description": "Ave rapaz de tamaño mediano reconocida por su comportamiento social. Presenta plumaje oscuro con tonos rojizos y suele cazar en grupos en ambientes áridos y abiertos.",
+      "typeLabel": "Ave rapaz",
+      "habitat": "Desiertos, matorrales, sabanas y áreas abiertas.",
+      "diet": "Mamíferos pequeños, reptiles, aves e insectos.",
+      "status": "Preocupación menor"
+    },
+    "golondrina_barranquera": {
+      "name": "Golondrina Barranquera",
+      "description": "Pequeña golondrina de colores azul oscuro y blanco. Es una de las especies más comunes de América del Sur y suele observarse volando en grupos cerca de cuerpos de agua y zonas urbanas.",
+      "typeLabel": "Ave insectívora",
+      "habitat": "Ciudades, pueblos, campos abiertos, bosques y cuerpos de agua.",
+      "diet": "Insectos capturados en vuelo.",
+      "status": "Preocupación menor"
+    },
+    "vuelvepiedras_comun": {
+      "name": "Vuelvepiedras Común",
+      "description": "Ave playera pequeña famosa por voltear piedras, conchas y restos marinos para encontrar alimento. Presenta plumaje muy llamativo durante la época reproductiva.",
+      "typeLabel": "Ave playera",
+      "habitat": "Playas, muelles, costas rocosas y estuarios.",
+      "diet": "Invertebrados, crustáceos, moluscos e insectos.",
+      "status": "Casi amenazada"
+    },
+    "gaviota_cabecigris": {
+      "name": "Gaviota Cabecigrís",
+      "description": "Gaviota de tamaño mediano que desarrolla una capucha gris durante la temporada reproductiva. Habita zonas costeras, lagunas y humedales.",
+      "typeLabel": "Ave marina",
+      "habitat": "Playas, lagunas costeras, estuarios y humedales.",
+      "diet": "Peces pequeños, insectos, crustáceos y moluscos.",
+      "status": "Preocupación menor"
+    },
+    "columbina_quiquagua": {
+      "name": "Columbina Quiquagua",
+      "description": "Pequeña paloma característica de zonas áridas y semiabiertas. Es común en pueblos y áreas agrícolas donde suele alimentarse en el suelo.",
+      "typeLabel": "Paloma terrestre",
+      "habitat": "Desiertos, parques, campos agrícolas y áreas urbanas.",
+      "diet": "Semillas, granos y pequeños insectos.",
+      "status": "Preocupación menor"
+    },
+    "andarrios_maculado": {
+      "name": "Andarríos Maculado",
+      "description": "Ave playera pequeña conocida por balancear constantemente la cola mientras camina. Frecuenta orillas de ríos, lagunas y estanques.",
+      "typeLabel": "Ave migratoria",
+      "habitat": "Ríos, lagos, estanques, humedales y costas.",
+      "diet": "Insectos, gusanos, crustáceos y otros invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "correlimos_menudillo": {
+      "name": "Correlimos Menudillo",
+      "description": "La más pequeña de las aves playeras americanas. Se observa en humedales y playas durante sus migraciones, alimentándose en zonas fangosas.",
+      "typeLabel": "Ave playera",
+      "habitat": "Playas, marismas, lagunas y humedales costeros.",
+      "diet": "Insectos acuáticos, larvas y pequeños invertebrados.",
+      "status": "Casi amenazada"
+    },
+    "flamenco_chileno": {
+      "name": "Flamenco Chileno",
+      "description": "Elegante ave acuática de gran tamaño con plumaje rosado y largas patas. Vive en lagunas salinas y humedales altoandinos formando grandes colonias.",
+      "typeLabel": "Ave acuática",
+      "habitat": "Lagunas salinas, humedales, estuarios y lagos altoandinos.",
+      "diet": "Algas, pequeños crustáceos y organismos microscópicos.",
+      "status": "Casi amenazada"
+    },
+    "aratinga_de_guayaquil": {
+      "name": "Aratinga de Guayaquil",
+      "description": "Loro de color verde con distintivas manchas rojas en la cabeza y alas. Vive en parejas o grupos y es conocido por sus fuertes vocalizaciones.",
+      "typeLabel": "Loro",
+      "habitat": "Bosques secos, áreas agrícolas, parques y zonas urbanas.",
+      "diet": "Frutos, semillas, flores y brotes.",
+      "status": "Casi amenazada"
+    },
+    "mosquerito_silbon": {
+      "name": "Mosquerito Silbón",
+      "description": "Pequeño mosquero ampliamente distribuido desde Centroamérica hasta Sudamérica. Se distingue por su comportamiento activo, cresta discreta y característicos silbidos repetitivos.",
+      "typeLabel": "Ave insectívora",
+      "habitat": "Bosques secundarios, matorrales, bordes de selva y jardines.",
+      "diet": "Insectos pequeños y larvas.",
+      "status": "Preocupación menor"
+    },
+    "chochin_criollo_sureno": {
+      "name": "Chochín Criollo Sureño",
+      "description": "Ave pequeña y muy vocal que habita jardines, parques y zonas rurales. Su plumaje marrón le permite camuflarse entre arbustos y vegetación densa.",
+      "typeLabel": "Ave cantora",
+      "habitat": "Parques, jardines, granjas y matorrales.",
+      "diet": "Insectos, arañas y pequeños invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "tangara_azuleja": {
+      "name": "Tangara Azuleja",
+      "description": "Ave de vistosos tonos azul grisáceos, común en zonas urbanas y rurales tropicales. Frecuenta jardines y árboles frutales.",
+      "typeLabel": "Ave frugívora",
+      "habitat": "Jardines, parques, bosques abiertos y áreas suburbanas.",
+      "diet": "Frutas, flores e insectos.",
+      "status": "Preocupación menor"
+    },
+    "gaviota_pipizcan": {
+      "name": "Gaviota Pipizcan",
+      "description": "Gaviota migratoria de tamaño mediano que se reproduce en Norteamérica y pasa parte del año en Sudamérica. Se observa en lagos, playas y humedales.",
+      "typeLabel": "Ave marina",
+      "habitat": "Playas, lagunas, humedales y costas.",
+      "diet": "Peces, insectos, crustáceos y pequeños invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "charran_elegante": {
+      "name": "Charrán Elegante",
+      "description": "Ave marina esbelta con largo pico anaranjado. Habita principalmente las costas del Pacífico y se especializa en la captura de peces.",
+      "typeLabel": "Ave costera",
+      "habitat": "Playas, costas rocosas, estuarios e islas.",
+      "diet": "Peces pequeños y organismos marinos.",
+      "status": "Casi amenazada"
+    },
+    "gorrion_comun": {
+      "name": "Gorrión Común",
+      "description": "Una de las aves urbanas más conocidas del mundo. Vive cerca de asentamientos humanos y forma grupos numerosos.",
+      "typeLabel": "Ave urbana",
+      "habitat": "Ciudades, pueblos, granjas y parques.",
+      "diet": "Semillas, granos, restos de alimentos e insectos.",
+      "status": "Preocupación menor"
+    },
+    "correlimos_semipalmeado": {
+      "name": "Correlimos Semipalmeado",
+      "description": "Pequeña ave playera migratoria que suele formar grandes bandadas en humedales y zonas costeras durante sus desplazamientos estacionales.",
+      "typeLabel": "Ave playera",
+      "habitat": "Playas, lodazales, marismas y humedales.",
+      "diet": "Larvas, insectos y pequeños invertebrados acuáticos.",
+      "status": "Casi amenazada"
+    },
+    "garrapatero_asurcado": {
+      "name": "Garrapatero Asurcado",
+      "description": "Ave negra de cola larga y pico robusto. Vive en grupos y suele observarse en áreas abiertas alimentándose de insectos y pequeños animales.",
+      "typeLabel": "Ave insectívora",
+      "habitat": "Pastizales, campos agrícolas, matorrales y bordes de bosque.",
+      "diet": "Insectos, garrapatas, frutos y pequeños vertebrados.",
+      "status": "Preocupación menor"
+    },
+    "cormoran_chuita": {
+      "name": "Cormorán Chuita",
+      "description": "Cormorán costero de llamativas patas rojas y plumaje oscuro. Es frecuente en la corriente de Humboldt y zonas rocosas del litoral pacífico.",
+      "typeLabel": "Ave marina",
+      "habitat": "Acantilados, costas rocosas, muelles e islas.",
+      "diet": "Peces, crustáceos y organismos marinos.",
+      "status": "Casi amenazada"
+    },
+    "cotorrita_de_piura": {
+      "name": "Cotorrita de Piura",
+      "description": "Pequeño loro verde característico del norte del Perú y Ecuador. Vive en bandadas y destaca por sus vocalizaciones agudas y su comportamiento sociable.",
+      "typeLabel": "Loro",
+      "habitat": "Bosques secos, zonas agrícolas y matorrales tropicales.",
+      "diet": "Semillas, frutos, flores y brotes tiernos.",
+      "status": "Preocupación menor"
+    },
+    "cormoran_guanay": {
+      "name": "Cormorán Guanay",
+      "description": "Cormorán característico de la corriente de Humboldt, famoso por su asociación con las islas guaneras del Perú. Forma grandes colonias en zonas costeras.",
+      "typeLabel": "Ave marina",
+      "habitat": "Costas rocosas, islas guaneras y acantilados.",
+      "diet": "Peces y organismos marinos.",
+      "status": "Casi amenazada"
+    },
+    "chorlito_dorado_americano": {
+      "name": "Chorlito Dorado Americano",
+      "description": "Ave migratoria de largas distancias que se reproduce en la tundra ártica y visita América del Sur durante el invierno boreal.",
+      "typeLabel": "Ave playera",
+      "habitat": "Pastizales, humedales y campos abiertos.",
+      "diet": "Insectos, gusanos y pequeños invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "potoyunco_peruano": {
+      "name": "Potoyunco Peruano",
+      "description": "Pequeña ave marina buceadora exclusiva de la corriente de Humboldt. Pasa gran parte de su vida en mar abierto alimentándose bajo el agua.",
+      "typeLabel": "Ave marina",
+      "habitat": "Océano Pacífico y costas rocosas.",
+      "diet": "Peces pequeños, crustáceos y plancton.",
+      "status": "Casi amenazada"
+    },
+    "charran_real_americano": {
+      "name": "Charrán Real Americano",
+      "description": "Gaviotín grande y elegante de las costas americanas. Se caracteriza por su pico anaranjado y su habilidad para capturar peces en vuelo.",
+      "typeLabel": "Ave costera",
+      "habitat": "Playas, bahías, estuarios y costas marinas.",
+      "diet": "Peces pequeños y organismos marinos.",
+      "status": "Preocupación menor"
+    },
+    "halcon_peregrino": {
+      "name": "Halcón Peregrino",
+      "description": "Una de las aves rapaces más rápidas del mundo. Caza otras aves en pleno vuelo realizando impresionantes picados a gran velocidad.",
+      "typeLabel": "Ave rapaz",
+      "habitat": "Acantilados, costas, ciudades y áreas abiertas.",
+      "diet": "Aves pequeñas y medianas.",
+      "status": "Preocupación menor"
+    },
+    "correlimos_pectoral": {
+      "name": "Correlimos Pectoral",
+      "description": "Ave playera migratoria reconocida por el marcado contraste entre el pecho estriado y el vientre blanco. Frecuenta humedales y pastizales húmedos.",
+      "typeLabel": "Ave playera",
+      "habitat": "Pantanos, humedales, lagunas y praderas húmedas.",
+      "diet": "Insectos, larvas y pequeños invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "charran_sudamericano": {
+      "name": "Charrán Sudamericano",
+      "description": "Ave marina costera de plumaje elegante y pico rojizo. Habita principalmente costas y estuarios de Sudamérica.",
+      "typeLabel": "Ave marina",
+      "habitat": "Costas, playas, estuarios e islas.",
+      "diet": "Peces pequeños y crustáceos.",
+      "status": "Preocupación menor"
+    },
+    "chorlitejo_semipalmeado": {
+      "name": "Chorlitejo Semipalmeado",
+      "description": "Pequeña ave playera migratoria de patas anaranjadas y una distintiva banda oscura en el pecho. Es común en playas y zonas lodosas.",
+      "typeLabel": "Ave playera",
+      "habitat": "Playas, estuarios, marismas y lodazales.",
+      "diet": "Insectos, crustáceos y pequeños moluscos.",
+      "status": "Preocupación menor"
+    },
+    "correlimos_zancolin": {
+      "name": "Correlimos zancolín",
+      "description": "Ave playera migratoria de tamaño mediano que destaca por sus patas relativamente largas y su elegante silueta. Durante la temporada no reproductiva visita costas, lagunas salobres y humedales donde busca alimento caminando lentamente sobre superficies fangosas. Se alimenta principalmente de pequeños invertebrados acuáticos que captura con movimientos rápidos de su pico. Es una especie visitante frecuente en los humedales costeros del Perú durante sus migraciones anuales.",
+      "typeLabel": "Ave playera",
+      "habitat": "Playas, lagunas costeras, marismas y humedales.",
+      "diet": "Crustáceos, insectos acuáticos, gusanos y moluscos pequeños.",
+      "status": "Preocupación menor"
+    },
+    "correlimos_de_alaska": {
+      "name": "Correlimos de Alaska",
+      "description": "Pequeña ave playera migratoria que se reproduce en las regiones árticas de Norteamérica y pasa gran parte del año en las costas del continente americano. Es común observarla formando bandadas que recorren playas y llanuras fangosas en busca de alimento. Su comportamiento activo y su capacidad para realizar largas migraciones la convierten en una de las especies más representativas de los humedales costeros. Se alimenta principalmente de pequeños invertebrados que encuentra en la arena húmeda.",
+      "typeLabel": "Ave playera",
+      "habitat": "Playas arenosas, estuarios, marismas y humedales costeros.",
+      "diet": "Pequeños crustáceos, insectos, gusanos y moluscos.",
+      "status": "Preocupación menor"
+    },
+    "tordo_negrido": {
+      "name": "Tordo Renegrido",
+      "description": "Ave ampliamente distribuida en América del Sur, conocida por su singular estrategia reproductiva de parasitismo de cría. Las hembras depositan sus huevos en los nidos de otras especies para que estas se encarguen de incubarlos y alimentar a los polluelos. Los machos presentan un plumaje negro brillante con reflejos azulados, mientras que las hembras muestran tonos más pardos. Es frecuente en áreas agrícolas, ciudades y ambientes abiertos.",
+      "typeLabel": "Paseriforme",
+      "habitat": "Campos abiertos, zonas urbanas, áreas agrícolas y humedales.",
+      "diet": "Semillas, frutos e insectos.",
+      "status": "Preocupación menor"
+    },
+    "aratinga_cordillerana": {
+      "name": "Aratinga cordillerana",
+      "description": "Loro de tamaño mediano característico de los valles interandinos y zonas áridas de la costa occidental de Sudamérica. Presenta un plumaje predominantemente verde con algunas marcas rojizas alrededor de la cabeza. Es una especie gregaria que suele desplazarse en grupos ruidosos mientras busca alimento. Su dieta variada y su capacidad de adaptación le permiten habitar tanto ambientes naturales como zonas modificadas por el ser humano.",
+      "typeLabel": "Psitácido",
+      "habitat": "Bosques secos, valles interandinos y áreas agrícolas.",
+      "diet": "Frutas, semillas, flores y brotes tiernos.",
+      "status": "Preocupación menor"
+    },
+    "anade_gargantillo": {
+      "name": "Ánade gargantillo",
+      "description": "Pato acuático de aspecto elegante que se distingue por su cabeza clara y el contraste de sus tonos pardos y blancos. Habita lagunas costeras, marismas y otros cuerpos de agua poco profundos donde busca alimento filtrando materia orgánica y pequeños organismos. Generalmente se le observa en parejas o pequeños grupos. Su presencia es indicadora de humedales saludables y con abundante vegetación acuática.",
+      "typeLabel": "Ave acuática",
+      "habitat": "Lagunas costeras, estuarios y marismas.",
+      "diet": "Plantas acuáticas, semillas e invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "focha_andina": {
+      "name": "Focha andina",
+      "description": "Ave acuática característica de lagunas y humedales altoandinos. Posee plumaje oscuro y un prominente escudo frontal de color claro que facilita su identificación. Es excelente nadadora y suele desplazarse entre la vegetación acuática donde encuentra refugio y alimento. Aunque puede volar, pasa gran parte de su vida sobre el agua y es común observarla formando grupos numerosos.",
+      "typeLabel": "Ave acuática",
+      "habitat": "Lagunas altoandinas, embalses y humedales.",
+      "diet": "Plantas acuáticas, algas e invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "charran_comun": {
+      "name": "Charrán común",
+      "description": "Ave marina migratoria de vuelo ágil y elegante que suele verse sobrevolando costas, bahías y estuarios. Se alimenta lanzándose en picada para capturar peces cerca de la superficie del agua. Presenta alas largas, cola ahorquillada y un distintivo pico rojizo con punta oscura. Durante sus desplazamientos puede recorrer miles de kilómetros entre sus áreas de reproducción y de invernada.",
+      "typeLabel": "Ave marina",
+      "habitat": "Costas, estuarios, playas y lagunas costeras.",
+      "diet": "Peces pequeños y crustáceos.",
+      "status": "Preocupación menor"
+    },
+    "charran_patinegro": {
+      "name": "Charrán patinegro",
+      "description": "Ave marina estilizada reconocible por su cresta negra y su largo pico oscuro con la punta amarilla. Frecuenta ambientes costeros donde captura peces mediante rápidas inmersiones desde el aire. A menudo forma grupos con otras especies de charranes y descansa en bancos de arena o playas abiertas. Su comportamiento activo y su gran habilidad de vuelo le permiten recorrer extensas áreas marinas en busca de alimento.",
+      "typeLabel": "Ave marina",
+      "habitat": "Playas, estuarios, bahías y costas marinas.",
+      "diet": "Peces pequeños y crustáceos.",
+      "status": "Preocupación menor"
+    },
+    "gallineta_americana": {
+      "name": "Gallineta americana",
+      "description": "Ave acuática de tamaño mediano que habita lagunas, pantanos y humedales con abundante vegetación. Presenta plumaje oscuro, patas largas y un llamativo escudo frontal rojizo. Se desplaza con facilidad tanto nadando como caminando sobre vegetación flotante. Es una especie oportunista que consume una amplia variedad de recursos alimenticios disponibles en su entorno.",
+      "typeLabel": "Ave acuática",
+      "habitat": "Pantanos, lagunas, canales y humedales.",
+      "diet": "Plantas acuáticas, semillas, insectos y pequeños invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "archibebe_patigualdo_grande": {
+      "name": "Archibebe patigualdo grande",
+      "description": "Ave playera migratoria fácilmente identificable por sus largas patas amarillas y su elegante porte. Se alimenta en aguas poco profundas donde captura insectos, crustáceos y pequeños peces mediante rápidos movimientos de su pico. Durante las migraciones puede observarse en lagunas, marismas y estuarios de toda América. Su llamado fuerte y característico suele delatar su presencia antes de ser visto.",
+      "typeLabel": "Ave playera",
+      "habitat": "Lagunas, estuarios, marismas y humedales.",
+      "diet": "Insectos acuáticos, peces pequeños y crustáceos.",
+      "status": "Preocupación menor"
+    },
+    "avion_zapador": {
+      "name": "Avión zapador",
+      "description": "Pequeña golondrina migratoria que se caracteriza por excavar túneles en taludes arenosos para construir sus nidos. Posee un vuelo rápido y altamente maniobrable que le permite capturar insectos en pleno aire. Durante las migraciones forma grandes bandadas que descansan cerca de cuerpos de agua. Es una especie cosmopolita ampliamente distribuida en gran parte del hemisferio norte.",
+      "typeLabel": "Golondrina",
+      "habitat": "Riberas, humedales, lagunas y áreas abiertas.",
+      "diet": "Insectos voladores.",
+      "status": "Preocupación menor"
+    },
+    "golondrina_comun": {
+      "name": "Golondrina común",
+      "description": "Una de las aves migratorias más conocidas del mundo, reconocible por su cola profundamente ahorquillada y su elegante vuelo. Durante gran parte del día permanece en el aire capturando insectos con gran precisión. Se reproduce en el hemisferio norte y migra miles de kilómetros hacia regiones más cálidas durante el invierno. Su capacidad de adaptación le permite habitar tanto áreas rurales como entornos urbanos cercanos a fuentes de agua.",
+      "typeLabel": "Golondrina",
+      "habitat": "Campos abiertos, humedales, áreas agrícolas y zonas urbanas.",
+      "diet": "Moscas, mosquitos y otros insectos voladores.",
+      "status": "Preocupación menor"
+    },
+    "tirano_melancolico": {
+      "name": "Tirano melancólico",
+      "description": "Ave insectívora ampliamente distribuida en América, fácilmente reconocible por su pecho gris y vientre amarillo brillante. Suele posarse en ramas expuestas o cables desde donde observa atentamente a sus presas antes de lanzarse en rápidos vuelos de captura. Es una especie adaptable que prospera en ambientes urbanos, agrícolas y naturales. Su canto y comportamiento territorial son comunes durante la época reproductiva.",
+      "typeLabel": "Atrapamoscas",
+      "habitat": "Áreas abiertas, parques, cultivos y bordes de bosques.",
+      "diet": "Insectos voladores y ocasionalmente pequeños frutos.",
+      "status": "Preocupación menor"
+    },
+    "platanero": {
+      "name": "Platanero",
+      "description": "Pequeña ave activa y colorida que se distingue por su ceja blanca, garganta clara y vientre amarillo. Es conocida por su afinidad hacia las flores, de las cuales obtiene néctar utilizando su fino pico curvado. También consume frutas maduras e insectos pequeños. Gracias a su importante papel como polinizadora, contribuye al mantenimiento de diversos ecosistemas tropicales y subtropicales.",
+      "typeLabel": "Nectarívora",
+      "habitat": "Jardines, matorrales, bosques secos y áreas urbanas arboladas.",
+      "diet": "Néctar, frutos blandos e insectos pequeños.",
+      "status": "Preocupación menor"
+    },
+    "chorlitejo_culirrojo": {
+      "name": "Chorlitejo culirrojo",
+      "description": "Ave playera de tamaño mediano fácilmente identificable por las dos bandas negras que atraviesan su pecho y por sus vocalizaciones fuertes y repetitivas. Frecuenta playas, humedales, terrenos abiertos y orillas de lagunas. Cuando detecta una amenaza cerca de su nido realiza una notable exhibición simulando tener un ala rota para alejar a los depredadores. Es una especie muy vigilante y activa durante gran parte del día.",
+      "typeLabel": "Ave playera",
+      "habitat": "Playas, humedales, lagunas y terrenos abiertos.",
+      "diet": "Insectos, arañas, gusanos y otros invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "playero_aliblanco": {
+      "name": "Playero aliblanco",
+      "description": "Ave playera de tamaño mediano que suele encontrarse caminando lentamente en aguas poco profundas mientras busca alimento. Se caracteriza por sus largas patas y su robusto pico, adaptados para capturar presas acuáticas. Durante las migraciones utiliza estuarios, marismas y humedales costeros como zonas de descanso y alimentación. Generalmente se le observa de manera solitaria o en pequeños grupos.",
+      "typeLabel": "Ave playera",
+      "habitat": "Estuarios, marismas, lagunas y costas.",
+      "diet": "Crustáceos, moluscos, insectos y pequeños peces.",
+      "status": "Preocupación menor"
+    },
+    "correlimos_tridactilo": {
+      "name": "Correlimos tridáctilo",
+      "description": "Pequeña ave playera muy común en playas arenosas de todo el mundo. Se desplaza rápidamente siguiendo el avance y retroceso de las olas para capturar pequeños organismos expuestos por el agua. Durante el periodo reproductivo presenta tonos rojizos en el plumaje, mientras que en invierno adquiere una coloración más clara y grisácea. Es famosa por sus extensas migraciones entre el Ártico y Sudamérica.",
+      "typeLabel": "Ave playera",
+      "habitat": "Playas arenosas, costas abiertas y estuarios.",
+      "diet": "Crustáceos, moluscos y pequeños invertebrados marinos.",
+      "status": "Preocupación menor"
+    },
+    "cerceta_colorada": {
+      "name": "Cerceta colorada",
+      "description": "Pato de tamaño pequeño a mediano que destaca por el intenso color rojizo del plumaje del macho durante la época reproductiva. Habita lagunas, pantanos y humedales con abundante vegetación donde encuentra refugio y alimento. Su comportamiento suele ser discreto, permaneciendo cerca de la vegetación emergente. Es una especie importante dentro de los ecosistemas acuáticos de América.",
+      "typeLabel": "Ave acuática",
+      "habitat": "Lagunas, pantanos, humedales y cuerpos de agua dulce.",
+      "diet": "Semillas, plantas acuáticas e invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "conirrostro_cinereo": {
+      "name": "Conirrostro cinéreo",
+      "description": "Pequeña ave andina de plumaje predominantemente gris que suele desplazarse de manera activa entre arbustos y árboles bajos. Posee un pico fino adaptado para alimentarse de insectos, néctar y pequeños frutos. Es frecuente observarla en parejas o grupos familiares explorando la vegetación en busca de alimento. Su amplia distribución le permite ocupar diversos ambientes desde zonas áridas hasta áreas urbanas con vegetación.",
+      "typeLabel": "Paseriforme",
+      "habitat": "Matorrales andinos, bosques secos y jardines.",
+      "diet": "Insectos, néctar y frutos pequeños.",
+      "status": "Preocupación menor"
+    },
+    "correlimos_gordo": {
+      "name": "Correlimos gordo",
+      "description": "Reconocido por realizar algunas de las migraciones más largas del reino animal, desplazándose entre las regiones árticas y las costas de Sudamérica. Durante la época reproductiva presenta una llamativa coloración rojiza en el pecho y el abdomen. Forma grandes bandadas en playas y marismas donde se alimenta intensamente para acumular reservas energéticas. La conservación de los humedales costeros es fundamental para la supervivencia de esta especie.",
+      "typeLabel": "Ave playera",
+      "habitat": "Playas, marismas, estuarios y humedales costeros.",
+      "diet": "Moluscos, crustáceos y otros invertebrados marinos.",
+      "status": "Casi amenazada"
+    },
+    "morito_de_la_puna": {
+      "name": "Morito de la puna",
+      "description": "Ave característica de los humedales altoandinos, reconocible por su largo pico curvado hacia abajo y su plumaje oscuro con reflejos metálicos. Suele alimentarse caminando lentamente por zonas inundadas donde explora el barro en busca de pequeños organismos. Es una especie importante en los ecosistemas de altura y puede observarse sola o formando grupos. Su presencia suele estar asociada a humedales bien conservados.",
+      "typeLabel": "Ibis",
+      "habitat": "Lagunas altoandinas, bofedales y humedales de altura.",
+      "diet": "Larvas, insectos acuáticos, crustáceos y pequeños moluscos.",
+      "status": "Preocupación menor"
+    },
+    "correlimos_de_baird": {
+      "name": "Correlimos de Baird",
+      "description": "Pequeña ave playera migratoria que se reproduce en la tundra ártica y viaja hasta Sudamérica durante el invierno boreal. Presenta una silueta estilizada, alas largas y una notable resistencia para recorrer enormes distancias. Se alimenta principalmente en playas, lagunas y humedales donde captura insectos y otros pequeños invertebrados. Es una visitante frecuente en diversos humedales costeros peruanos durante sus migraciones estacionales.",
+      "typeLabel": "Ave playera",
+      "habitat": "Playas, lagunas costeras, marismas y humedales.",
+      "diet": "Insectos, crustáceos y pequeños invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "garcilla_bueyera_occidental": {
+      "name": "Garcilla bueyera occidental",
+      "description": "Ave zancuda de tamaño mediano ampliamente distribuida en regiones tropicales y subtropicales. Es conocida por su estrecha asociación con el ganado, al que acompaña para capturar insectos y pequeños animales que son espantados por su movimiento. Durante la época reproductiva desarrolla llamativas plumas ornamentales de tonos anaranjados en la cabeza, pecho y espalda. Su gran capacidad de adaptación le permite prosperar tanto en ambientes naturales como en zonas agrícolas y urbanas.",
+      "typeLabel": "Ave zancuda",
+      "habitat": "Humedales, pastizales, campos agrícolas y áreas ganaderas.",
+      "diet": "Insectos, anfibios, reptiles pequeños y otros invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "aguja_cafe": {
+      "name": "Aguja café",
+      "description": "Ave playera migratoria de gran tamaño reconocida por su largo pico recto y su notable resistencia durante las migraciones. Se reproduce en el norte del continente americano y viaja miles de kilómetros hasta Sudamérica. Durante el invierno boreal utiliza humedales, estuarios y marismas como áreas de descanso y alimentación. Se alimenta explorando el lodo con su pico para capturar invertebrados ocultos bajo la superficie.",
+      "typeLabel": "Ave playera",
+      "habitat": "Marismas, estuarios, lagunas costeras y humedales.",
+      "diet": "Gusanos, crustáceos, moluscos e insectos acuáticos.",
+      "status": "Preocupación menor"
+    },
+    "pelicano_pardo": {
+      "name": "Pelícano pardo",
+      "description": "Ave marina de gran tamaño famosa por su enorme bolsa gular y sus espectaculares zambullidas para capturar peces. Se desplaza frecuentemente en grupos sobre las corrientes costeras aprovechando el viento para reducir el gasto energético. Es un importante depredador de ecosistemas marinos costeros y suele descansar en playas, muelles y rocas. Su recuperación poblacional es considerada uno de los casos exitosos de conservación de aves marinas.",
+      "typeLabel": "Ave marina",
+      "habitat": "Costas marinas, playas, estuarios y puertos.",
+      "diet": "Peces y ocasionalmente crustáceos.",
+      "status": "Preocupación menor"
+    },
+    "falaropo_tricolor": {
+      "name": "Falaropo tricolor",
+      "description": "Pequeña ave playera migratoria conocida por su comportamiento único de girar sobre sí misma en el agua para concentrar alimento cerca de la superficie. Presenta una notable inversión de roles reproductivos, donde las hembras poseen colores más llamativos y los machos asumen gran parte del cuidado parental. Durante la migración visita lagunas y humedales donde forma grupos numerosos. Su elegante apariencia y hábitos peculiares la convierten en una especie muy interesante para la observación de aves.",
+      "typeLabel": "Ave playera",
+      "habitat": "Lagunas, humedales interiores y cuerpos de agua tranquilos.",
+      "diet": "Insectos acuáticos, larvas y pequeños crustáceos.",
+      "status": "Preocupación menor"
+    },
+    "ciguenuela_cuellinegra": {
+      "name": "Cigüeñuela cuellinegra",
+      "description": "Elegante ave zancuda caracterizada por sus extremadamente largas patas rosadas y su plumaje blanco y negro. Habita humedales poco profundos donde camina lentamente buscando alimento en el agua. Su silueta estilizada y su comportamiento activo la convierten en una de las aves más llamativas de los ecosistemas acuáticos costeros. Durante la temporada reproductiva puede mostrarse muy territorial para proteger sus nidos.",
+      "typeLabel": "Ave zancuda",
+      "habitat": "Lagunas, marismas, estuarios y humedales costeros.",
+      "diet": "Insectos acuáticos, crustáceos y pequeños moluscos.",
+      "status": "Preocupación menor"
+    },
+    "alcaravan_peruano": {
+      "name": "Alcaraván peruano",
+      "description": "Ave terrestre característica de las regiones áridas de la costa del Pacífico sudamericano. Posee grandes ojos amarillos adaptados a la actividad nocturna y un plumaje críptico que le permite confundirse con el entorno. Durante el día suele permanecer inmóvil para evitar ser detectada. Su comportamiento discreto y sus vocalizaciones nocturnas hacen que sea una especie fascinante para los observadores de aves.",
+      "typeLabel": "Ave terrestre",
+      "habitat": "Desiertos costeros, matorrales secos y áreas abiertas.",
+      "diet": "Insectos, arañas y pequeños vertebrados.",
+      "status": "Preocupación menor"
+    },
+    "pinguino_de_humboldt": {
+      "name": "Pingüino de Humboldt",
+      "description": "Ave marina emblemática de la corriente de Humboldt que habita las costas de Perú y Chile. Presenta un cuerpo robusto adaptado para la natación y una coloración blanca y negra que le proporciona camuflaje en el océano. Se alimenta principalmente de peces y otros organismos marinos que captura mediante rápidas persecuciones bajo el agua. Actualmente enfrenta amenazas relacionadas con la actividad humana y los cambios ambientales en su ecosistema.",
+      "typeLabel": "Ave marina",
+      "habitat": "Costas rocosas, islas e islotes del Pacífico suroriental.",
+      "diet": "Peces, crustáceos y cefalópodos.",
+      "status": "Vulnerable"
+    },
+    "cernicalo_americano": {
+      "name": "Cernícalo americano",
+      "description": "La especie de halcón más pequeña de América y una de las más coloridas. Posee una extraordinaria capacidad para mantenerse suspendida en el aire mientras localiza presas en el suelo. Habita una gran variedad de ambientes abiertos y se adapta con facilidad a paisajes modificados por el ser humano. Es un importante controlador natural de insectos y pequeños vertebrados.",
+      "typeLabel": "Ave rapaz",
+      "habitat": "Campos abiertos, áreas agrícolas, desiertos y zonas urbanas.",
+      "diet": "Insectos, lagartijas, roedores y pequeñas aves.",
+      "status": "Preocupación menor"
+    },
+    "semillero_volatinero": {
+      "name": "Semillero volatinero",
+      "description": "Pequeña ave granívora conocida por los espectaculares saltos verticales que realizan los machos durante el cortejo. Los machos adultos presentan plumaje negro azulado brillante, mientras que las hembras muestran tonos pardos más discretos. Habita pastizales y áreas abiertas donde encuentra abundantes semillas. Su comportamiento reproductivo es uno de los más llamativos entre las aves pequeñas de América.",
+      "typeLabel": "Paseriforme",
+      "habitat": "Pastizales, matorrales y terrenos abiertos.",
+      "diet": "Semillas, granos e insectos pequeños.",
+      "status": "Preocupación menor"
+    },
+    "aguila_pescadora": {
+      "name": "Águila pescadora",
+      "description": "Majestuosa ave rapaz especializada casi exclusivamente en la captura de peces. Posee largas alas, poderosas garras y adaptaciones únicas que le permiten zambullirse desde gran altura para atrapar presas bajo la superficie del agua. Es una migradora de largas distancias y puede encontrarse en diversos cuerpos de agua alrededor del mundo. Su presencia suele indicar ecosistemas acuáticos con abundantes recursos pesqueros.",
+      "typeLabel": "Ave rapaz",
+      "habitat": "Costas, lagunas, ríos, estuarios y embalses.",
+      "diet": "Principalmente peces.",
+      "status": "Preocupación menor"
+    },
+    "golondrina_cuellirrufa": {
+      "name": "Golondrina cuellirrufa",
+      "description": "Pequeña ave insectívora reconocible por la tonalidad rojiza de su cuello y garganta. Es una especie muy sociable que suele formar grupos numerosos y construir nidos de barro adheridos a paredes rocosas, puentes y edificaciones. Su vuelo rápido y ágil le permite capturar insectos en pleno aire con gran eficacia. Durante el día puede recorrer amplias áreas abiertas en busca de alimento, contribuyendo al control natural de poblaciones de insectos.",
+      "typeLabel": "Golondrina",
+      "habitat": "Valles costeros, áreas abiertas, humedales y zonas urbanas.",
+      "diet": "Insectos voladores.",
+      "status": "Preocupación menor"
+    },
+    "monterita_collareja": {
+      "name": "Monterita collareja",
+      "description": "Ave paseriforme de tamaño pequeño que habita principalmente zonas arbustivas y matorrales secos. Se distingue por el patrón contrastante de su plumaje y por su comportamiento activo mientras busca alimento entre ramas y hojas. Generalmente se observa en parejas o pequeños grupos familiares. Su canto melodioso es una característica frecuente en las áreas donde se distribuye.",
+      "typeLabel": "Paseriforme",
+      "habitat": "Matorrales, bosques secos y áreas semiáridas.",
+      "diet": "Semillas, frutos pequeños e insectos.",
+      "status": "Preocupación menor"
+    },
+    "garza_cuca": {
+      "name": "Garza cuca",
+      "description": "La garza más grande de Sudamérica, fácilmente reconocible por su imponente tamaño, cuello largo y elegante combinación de colores grises, blancos y negros. Habita lagunas, ríos y humedales donde permanece inmóvil durante largos periodos antes de capturar peces mediante rápidos ataques con su pico. Es una depredadora eficiente y una especie emblemática de los ecosistemas acuáticos continentales.",
+      "typeLabel": "Ave zancuda",
+      "habitat": "Ríos, lagunas, pantanos y humedales.",
+      "diet": "Peces, anfibios, reptiles e invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "albatros_de_galapagos": {
+      "name": "Albatros de Galápagos",
+      "description": "Impresionante ave marina de gran envergadura que realiza extensos desplazamientos sobre el océano aprovechando las corrientes de aire. Es la única especie de albatros que se reproduce principalmente en las islas Galápagos. Posee un vuelo extremadamente eficiente que le permite recorrer miles de kilómetros con un gasto energético mínimo. Su ciclo reproductivo es lento, lo que la hace especialmente vulnerable a las amenazas ambientales.",
+      "typeLabel": "Ave marina",
+      "habitat": "Océano abierto y costas insulares.",
+      "diet": "Peces, calamares y crustáceos.",
+      "status": "En peligro crítico"
+    },
+    "yal_platero": {
+      "name": "Yal platero",
+      "description": "Ave característica de ambientes áridos y semiáridos de la costa occidental sudamericana. Presenta un plumaje discreto que le proporciona un excelente camuflaje entre la vegetación seca y los suelos arenosos. Generalmente se alimenta en el suelo buscando semillas y pequeños insectos. Es una especie adaptada a condiciones de escasez de agua y altas temperaturas.",
+      "typeLabel": "Paseriforme",
+      "habitat": "Desiertos costeros, lomas y matorrales secos.",
+      "diet": "Semillas, brotes e insectos.",
+      "status": "Preocupación menor"
+    },
+    "paino_ahumado": {
+      "name": "Paiño ahumado",
+      "description": "Pequeña ave marina pelágica que pasa la mayor parte de su vida lejos de la costa. Su plumaje oscuro y su vuelo ligero sobre la superficie del mar la hacen difícil de observar. Se alimenta capturando pequeños organismos marinos mientras planea o revolotea cerca del agua. Es una especie de gran interés para la conservación debido a las amenazas que enfrenta en sus áreas de reproducción.",
+      "typeLabel": "Ave marina",
+      "habitat": "Océano abierto y costas desérticas.",
+      "diet": "Plancton, crustáceos pequeños y peces diminutos.",
+      "status": "Casi amenazada"
+    },
+    "gaviota_tijereta": {
+      "name": "Gaviota tijereta",
+      "description": "Especie única entre las gaviotas por sus hábitos predominantemente nocturnos. Posee grandes ojos adaptados para detectar presas en condiciones de poca luz y una distintiva cola ahorquillada que inspira su nombre común. Se alimenta principalmente de peces y calamares capturados cerca de la superficie marina. Es una de las aves más emblemáticas asociadas a las islas Galápagos.",
+      "typeLabel": "Ave marina",
+      "habitat": "Océano abierto, costas e islas oceánicas.",
+      "diet": "Peces, calamares y organismos marinos.",
+      "status": "Preocupación menor"
+    },
+    "charrancito_peruano": {
+      "name": "Charrancito peruano",
+      "description": "Pequeña ave marina propia de la corriente de Humboldt y considerada una de las especies costeras más representativas del litoral peruano. Presenta un vuelo rápido y preciso que utiliza para capturar peces mediante breves inmersiones. Nidifica en playas arenosas y zonas costeras abiertas, donde sus poblaciones enfrentan diversas amenazas asociadas a la actividad humana. Su conservación es una prioridad en varios humedales costeros del Perú.",
+      "typeLabel": "Ave marina",
+      "habitat": "Playas, estuarios y costas arenosas.",
+      "diet": "Peces pequeños y crustáceos.",
+      "status": "En peligro"
+    },
+    "martinete_coronado": {
+      "name": "Martinete coronado",
+      "description": "Ave zancuda de hábitos principalmente crepusculares y nocturnos. Posee una constitución robusta, ojos grandes y una distintiva corona clara que contrasta con el resto de su plumaje. Durante el día suele descansar en áreas protegidas de vegetación densa y al anochecer sale a alimentarse en humedales y zonas costeras. Es un depredador oportunista que aprovecha una gran variedad de recursos alimenticios.",
+      "typeLabel": "Ave zancuda",
+      "habitat": "Manglares, humedales, lagunas y estuarios.",
+      "diet": "Cangrejos, peces, insectos y moluscos.",
+      "status": "Preocupación menor"
+    },
+    "pagalo_chileno": {
+      "name": "Págalo chileno",
+      "description": "Ave marina robusta y poderosa conocida por su comportamiento oportunista y su habilidad para perseguir a otras aves con el fin de obligarlas a soltar su alimento. Además de esta estrategia, también captura presas por cuenta propia y consume carroña cuando está disponible. Es frecuente en aguas frías del Pacífico sur y suele observarse siguiendo embarcaciones pesqueras. Su presencia refleja la dinámica ecológica de los ecosistemas marinos australes.",
+      "typeLabel": "Ave marina",
+      "habitat": "Océano abierto, costas y aguas frías del Pacífico sur.",
+      "diet": "Peces, aves marinas, huevos, carroña y crustáceos.",
+      "status": "Preocupación menor"
+    },
+    "playero_arenero": {
+      "name": "Playero Arenero",
+      "description": "Ave playera pequeña muy activa, conocida por correr incansablemente a lo largo de la línea de las olas persiguiendo invertebrados marinos. Es una especie migratoria que se reproduce en el Ártico y llega a las costas peruanas durante el invierno boreal.",
+      "typeLabel": "Ave migratoria",
+      "habitat": "Playas arenosas abiertas, estuarios y marismas.",
+      "diet": "Pequeños crustáceos, moluscos e invertebrados marinos arrastrados por las olas.",
+      "status": "Preocupación menor"
+    },
+    "chorlo_semipalmeado": {
+      "name": "Chorlo Semipalmeado",
+      "description": "Pequeña ave playera migratoria que se caracteriza por una banda oscura alrededor del pecho y un pico corto y grueso. Se alimenta en bancos de barro y playas, corriendo rápidamente en cortas distancias antes de detenerse repentinamente para buscar presas.",
+      "typeLabel": "Ave playera",
+      "habitat": "Llanuras de lodo, humedales costeros y playas.",
+      "diet": "Insectos, crustáceos y gusanos pequeños.",
+      "status": "Preocupación menor"
+    },
+    "playerito_semipalmado": {
+      "name": "Playerito Semipalmado",
+      "description": "Uno de los playeritos más comunes y pequeños. Durante la migración, forma enormes bandadas sincronizadas. Posee patas negras y se alimenta sondeando velozmente el lodo y la arena superficial con su pico corto.",
+      "typeLabel": "Ave migratoria",
+      "habitat": "Humedales, orillas fangosas y estuarios.",
+      "diet": "Invertebrados acuáticos, pequeños moluscos y anfípodos.",
+      "status": "Casi amenazada"
+    },
+    "zarapito_trinador": {
+      "name": "Zarapito Trinador",
+      "description": "Ave playera de gran tamaño, fácilmente reconocible por su largo pico curvado hacia abajo y el distintivo patrón rayado en la cabeza. Su llamado es un característico trino rápido y silbante que se escucha a largas distancias.",
+      "typeLabel": "Ave playera grande",
+      "habitat": "Marismas, llanuras de lodo y playas rocosas.",
+      "diet": "Cangrejos, caracoles, gusanos e insectos marinos.",
+      "status": "Preocupación menor"
+    },
+    "gaviota_peruana": {
+      "name": "Gaviota Peruana",
+      "description": "Es un ave marina de tamaño mediano endémica de la costa del Pacífico sudamericano, especialmente en Perú y Chile. Su plumaje es gris en la parte superior, con la cabeza blanca y detalles oscuros durante el apareamiento; su pico es amarillo con una franja roja, y sus patas son amarillas, lo que la hace fácilmente identificable entre las aves costeras.\n\nHábitats Costeros: Vive en costas rocosas y playas arenosas, donde se alimenta de peces, moluscos, crustáceos y hasta residuos de áreas urbanas. Su dieta variada y oportunista le permite adaptarse a diferentes fuentes de alimento.\n\nCiclo de vida y Reproducción: Es social y forma grandes grupos, pero se vuelve territorial en la época de cría, que ocurre entre noviembre y marzo, cuando las condiciones climáticas son más favorables. Anida en zonas rocosas y en islas deshabitadas, donde pone entre uno y tres huevos en color marrón claro con manchas oscuras que camuflan bien en los nidos.\n\nConservación Urgente: A pesar de ser resistente y adaptable, enfrenta graves amenazas por la actividad humana, como la contaminación marina, la sobrepesca y el turismo no regulado. Estas condiciones afectan su alimentación y alteran su hábitat.\n\nConservación y Futuro: Es crucial implementar programas de educación ambiental y reducir la contaminación marina, así como promover la pesca sostenible para asegurar su supervivencia.",
+      "typeLabel": "Ave endémica de singular belleza",
+      "habitat": "Costas rocosas, playas arenosas y áreas urbanas del Pacífico sudamericano.",
+      "diet": "Peces, moluscos, crustáceos y residuos urbanos.",
+      "status": "Casi Amenazada (UICN)"
+    },
+    "gaviota_franklin": {
+      "name": "Gaviota de Franklin",
+      "description": "Una gaviota elegante, famosa por migrar miles de kilómetros desde las praderas norteamericanas hasta la costa del Pacífico sudamericano. Durante el verano austral, miles de estas gaviotas invaden las playas. Se reconocen por su capirote negro.",
+      "typeLabel": "Ave migratoria",
+      "habitat": "Lagos, humedales interiores y playas costeras.",
+      "diet": "Insectos, lombrices de tierra, peces pequeños e invertebrados.",
+      "status": "Preocupación menor"
+    },
+    "cormoran_neotropical": {
+      "name": "Cormorán Neotropical",
+      "description": "Es una especie de ave acuática que habita en cuerpos de agua dulce y salada a lo largo de América, desde el sur de Estados Unidos hasta el norte de Chile y Argentina. Esta ave es fácilmente reconocible por su plumaje negro brillante que, en la luz adecuada, puede mostrar un matiz verdoso o azulado. Sus ojos son de un tono azul verdoso y su pico es largo y delgado con un gancho en la punta, adaptado para atrapar peces. Mide entre los 60 y 75 centímetros.\n\n¡El maestro de la pesca!: Es un depredador experto en la pesca, gracias a su agilidad y habilidad bajo el agua. Emplea una técnica de buceo en la que se sumerge rápidamente y persigue a sus presas, ayudado por sus patas palmeadas.\n\nUn ritual de secado al sol: Después de pescar y sumergirse en el agua, se le puede observar en la orilla con las alas extendidas para secarlas. A diferencia de otras aves acuáticas, los cormoranes no tienen glándulas sebáceas muy desarrolladas para impermeabilizar sus plumas, por lo que necesitan secarse al sol para poder volar eficientemente.\n\nIndicador de salud: Debido a que depende de la disponibilidad de peces y de la calidad del agua, su presencia es signo de un ecosistema balanceado. Sin embargo, la contaminación y destrucción de hábitats impactan negativamente sus poblaciones.\n\nSímbolo de adaptación: Es un ejemplo fascinante de adaptación al entorno y de interacción con otras especies, incluyendo los humanos. En algunas culturas ha sido objeto de mitos y leyendas.",
+      "typeLabel": "Ave acuática con brilloso plumaje",
+      "habitat": "Cuerpos de agua dulce y salada, manglares, ríos, estuarios y lagos de América.",
+      "diet": "Depredador experto en pesca bajo el agua.",
+      "status": "Preocupación menor (Sensible a la contaminación del agua)"
+    },
+    "garza_blanca_grande": {
+      "name": "Garza Blanca Grande",
+      "description": "Una de las aves zancudas más altas y elegantes. Totalmente blanca con un imponente pico amarillo y largas patas negras. Acecha pacientemente inmóvil en aguas someras hasta que lanza un rápido arponazo con su cuello para capturar a su presa.",
+      "typeLabel": "Ave zancuda",
+      "habitat": "Lagos, humedales, riberas, marismas y pantanos.",
+      "diet": "Peces, ranas, culebras, crustáceos grandes y pequeños roedores.",
+      "status": "Preocupación menor"
+    },
+    "ostrero_americano": {
+      "name": "Ostrero Americano",
+      "description": "Ave costera inconfundible y ruidosa, de cabeza negra, lomo pardo y vientre blanco puro. Lo que más destaca es su larguísimo y fuerte pico rojo anaranjado brillante, que utiliza como herramienta perfecta para abrir moluscos bivalvos.",
+      "typeLabel": "Ave playera",
+      "habitat": "Costas rocosas, playas de arena y fango, islotes.",
+      "diet": "Ostras, mejillones, lapas y otros invertebrados con concha dura.",
+      "status": "Preocupación menor"
+    },
+    "garza_azul": {
+      "name": "Garza Azul",
+      "description": "Es un ave acuática de la familia Ardeidae, que habita en zonas costeras y pantanosas de América, especialmente en climas tropicales y subtropicales. Se le reconoce por su figura esbelta, piernas y cuello largos. Los adultos tienen plumaje azul pizarra, mientras que los juveniles son inicialmente blancos y cambian de color a medida que maduran.\n\nEstrategias de pesca: Se alimenta principalmente de peces, crustáceos e insectos acuáticos, además de pequeños anfibios y reptiles. Usa una técnica de caza meticulosa, moviéndose lentamente o permaneciendo inmóvil para atrapar a su presa con rapidez.\n\nConducta de Reproducción: Se reproduce en colonias, a menudo junto a otras aves acuáticas, construyendo nidos en árboles o arbustos cercanos al agua. Las hembras ponen de tres a cinco huevos, y ambos padres colaboran en la incubación.\n\nAmenazas y Conservación: A pesar de su habilidad para adaptarse, enfrenta amenazas por la destrucción de su hábitat natural, contaminación y expansión urbana. Proteger los humedales es crucial para su sostenibilidad.",
+      "typeLabel": "Ave acuática",
+      "habitat": "Zonas costeras y pantanosas de América, climas tropicales y subtropicales.",
+      "diet": "Peces, crustáceos e insectos acuáticos, pequeños anfibios y reptiles.",
+      "status": "Preocupación menor (Amenazada por pérdida de hábitat)"
+    },
+    "pelicano_peruano": {
+      "name": "Pelícano Peruano",
+      "description": "Es una especie distintiva de las costas del Pacífico Sudamericano, desde el norte de Chile hasta el sur de Ecuador. Se reconoce por su gran tamaño, plumaje oscuro con tonos blancos y grises, y su característica cresta blanca. Su largo pico colorido con una bolsa extensible lo hace único.\n\nMaestro de la pesca: El pelícano peruano es famoso por su técnica de pesca en picado, capturando anchovetas y peces pequeños en su bolsa mediante un espectacular vuelo lanzándose desde grandes alturas.\n\nTermómetro Natural: Desempeña un rol ecológico crucial, siendo un indicador de la salud de las aguas marinas. En épocas de abundancia forman grandes colonias de miles de individuos, pero durante El Niño su población disminuye debido a la migración de peces.\n\nCiclo familiar: La época de apareamiento varía según la disponibilidad de alimento. Las hembras ponen entre dos y tres huevos, que incuban por un mes. Ambos padres cuidan a los polluelos.\n\nProtección: Enfrenta graves amenazas por la contaminación, la sobrepesca y el cambio climático. La conservación de esta especie es esencial para mantener el equilibrio ecológico en las costas.",
+      "typeLabel": "Ave marina majestuosa",
+      "habitat": "Costas del Pacífico Sudamericano, ecosistemas marinos.",
+      "diet": "Anchovetas y peces pequeños, capturados en picada.",
+      "status": "Casi amenazada (Requiere conservación de su hábitat)"
+    }
+  },
+  "govHeader": "Gobierno Regional del Callao",
+  "welcomePre": "¡Bienvenidos al",
+  "welcomeTitle": "Humedal La Arenilla!",
+  "langLabel": "Idioma",
+  "btn1Title": "Ver ESPECIES",
+  "btn1Sub": "Explora la biodiversidad del humedal",
+  "btn2Title": "Escanear ESPECIES",
+  "btn2Sub": "Identifica especies con tu cámara",
+  "infoTitle": "Protejamos nuestro humedal",
+  "infoText": "El Humedal La Arenilla es hogar de diversas especies y un ecosistema único que debemos conservar.",
+  "footer": "Municipalidad Distrital de La Punta - MDLP",
+  "camera_point": "Apunte a una especie...",
+  "camera_tap": "Toca para ver ficha completa",
+  "terms_link": "Política de Privacidad",
+  "terms_title": "Privacidad y Cumplimiento",
+  "terms_subtitle": "ArenIa — Humedal La Arenilla",
+  "terms_read_hint": "Por favor, lee todos los términos antes de aceptar.",
+  "terms_scroll_hint": "Desplázate hasta el final para aceptar",
+  "terms_accept": "Entendido, continuar",
+  "terms_reject": "Salir",
+  "terms_s16_title": "Uso de datos e información",
+  "terms_s16_body": "Los participantes no podrán utilizar datos personales reales, información sensible, secreta, reservada, confidencial, credenciales, claves, tokens, endpoints internos, expedientes, bases de datos institucionales no públicas ni información protegida, salvo autorización expresa, formal y previa de la entidad competente y conforme a la normativa aplicable.\n\nSe priorizará el uso de:",
+  "terms_s16_a": "Datos abiertos.",
+  "terms_s16_b": "Datos anonimizados.",
+  "terms_s16_c": "Datos sintéticos.",
+  "terms_s16_d": "Datos simulados.",
+  "terms_s16_e": "Casos de uso referenciales.",
+  "terms_s16_f": "Información pública de libre acceso.",
+  "terms_s16_footer": "Las entidades proponentes, a través del equipo de su laboratorio de innovación digital, serán responsables de verificar que la información compartida durante la Hackatón no vulnere restricciones legales, administrativas, contractuales, de seguridad o protección de datos.",
+  "terms_s17_title": "Uso de inteligencia artificial generativa",
+  "terms_s17_body": "El uso de herramientas de inteligencia artificial generativa se permitirá únicamente para fines de apoyo al desarrollo, documentación, diseño, análisis, ideación o mejora del prototipo.\n\nEstá prohibido ingresar en dichas herramientas:",
+  "terms_s17_a": "Datos personales reales.",
+  "terms_s17_b": "Información confidencial, secreta, reservada o sensible.",
+  "terms_s17_c": "Credenciales, claves, tokens o mecanismos de acceso.",
+  "terms_s17_d": "Información institucional no pública.",
+  "terms_s17_e": "Documentación interna protegida.",
+  "terms_s17_f": "Código fuente, configuraciones o arquitectura de sistemas productivos no autorizados.",
+  "terms_s17_footer": "Los equipos deberán declarar el uso de herramientas de IA generativa cuando corresponda y serán responsables de revisar, validar y asumir responsabilidad por los contenidos, los resultados o componentes incorporados en sus soluciones.",
+  "terms_s18_title": "Confidencialidad",
+  "terms_s18_body": "Los participantes, mentores, jurados y demás actores involucrados deberán mantener reserva respecto de la información no pública a la que pudieran acceder durante la Hackatón.\n\nLa obligación de confidencialidad se mantiene incluso después de finalizada la Hackatón.\n\nEstá prohibido divulgar, reproducir, publicar, transferir, almacenar en repositorios públicos, subir a plataformas externas o utilizar para fines distintos de la Hackatón cualquier información institucional no autorizada.",
+  "terms_s18_footer": "El incumplimiento de esta obligación podrá dar lugar a la descalificación, exclusión del proceso, retiro de reconocimiento y demás acciones que correspondan conforme a la normativa aplicable.",
+  "terms_s19_title": "Seguridad de la información",
+  "terms_s19_body": "Los participantes deberán observar reglas mínimas de seguridad digital.\n\nEstá prohibido:",
+  "terms_s19_a": "Intervenir sistemas reales de entidades públicas.",
+  "terms_s19_b": "Escanear, vulnerar, probar o explotar sistemas sin autorización expresa.",
+  "terms_s19_c": "Usar credenciales institucionales no autorizadas.",
+  "terms_s19_d": "Publicar claves, tokens, endpoints internos o configuraciones sensibles.",
+  "terms_s19_e": "Incorporar malware, spyware, mecanismos de extracción indebida de información o código malicioso.",
+  "terms_s19_f": "Usar datos de captura, intrusión o explotación sobre infraestructura pública o privada sin autorización formal.",
+  "terms_s19_footer": "Las soluciones deberán desarrollarse en ambientes de prueba, simulados o controlados.",
+  "terms_s20_title": "Tratamiento de datos personales de participantes",
+  "terms_s20_body": "La SGTD-PCM podrá recopilar datos personales de los participantes con fines de inscripción, admisibilidad, evaluación, comunicaciones, organización, emisión de constancias, difusión de resultados, sistematización, gestión del conocimiento y articulación posterior con iniciativas de innovación digital pública.\n\nLos datos podrán incluir nombres, apellidos, documento de identidad, correo electrónico, teléfono, perfil, institución de procedencia, experiencia declarada, imagen, voz y demás información necesaria para la gestión de la Hackatón.\n\nEl tratamiento de datos personales se realizará conforme a la normativa aplicable en materia de protección de datos personales.\n\nLos participantes aceptan el tratamiento de sus datos personales para las finalidades descritas mediante la presentación de su postulación y aceptación de las presentes bases.",
+  "terms_s21_title": "Uso de imagen, voz y difusión institucional",
+  "terms_s21_body": "La participación en la Hackatón implica la autorización para el uso de imagen, voz, nombre, equipo, perfil, entidad o institución de procedencia, nombre de la solución y registros audiovisuales generados durante la actividad.\n\nDicha autorización se otorga a favor de la PCM, la SGTD-PCM y, de corresponder, las entidades públicas participantes, exclusivamente para fines institucionales, difusión de resultados, rendición de cuentas, comunicación pública, gestión del conocimiento, académicos y promoción de la innovación digital pública.",
+  "terms_s21_footer": "El uso de imagen y voz no tendrá fines comerciales ni generará derecho a compensación económica.",
+  "terms_intro_title": "ArenIa respeta tu privacidad y cumple con la normativa vigente.",
+  "terms_intro_body": "Esta aplicación fue desarrollada con fines educativos y de conservación. A continuación te explicamos de forma clara cómo operamos y por qué puedes usarla con total confianza.",
+  "terms_c1_title": "No recopilamos datos personales",
+  "terms_c1_body": "ArenIa no solicita, almacena ni procesa ningún dato personal del usuario. No se requiere registro, nombre, correo electrónico ni ningún otro dato identificable para usar la app.",
+  "terms_c2_title": "No accedemos a información confidencial",
+  "terms_c2_body": "La app no accede a bases de datos institucionales, expedientes, sistemas internos ni ningún tipo de información sensible, secreta o reservada. Solo utiliza datos abiertos y públicos.",
+  "terms_c3_title": "Uso responsable de IA",
+  "terms_c3_body": "Las herramientas de inteligencia artificial utilizadas en el desarrollo de esta app operaron exclusivamente con datos abiertos y de referencia. Nunca se ingresaron datos personales, credenciales ni información confidencial en dichas herramientas.",
+  "terms_c4_title": "Solo usamos información pública",
+  "terms_c4_body": "Todo el contenido de la app — imágenes, descripciones de especies, hábitats y datos ecológicos — proviene de fuentes de acceso libre, datos abiertos o fue creado con fines de divulgación científica.",
+  "terms_c5_title": "No interfiere con sistemas externos",
+  "terms_c5_body": "ArenIa es una app informativa. No realiza escaneos, intrusiones, conexiones no autorizadas ni interactúa con sistemas o infraestructura de entidades públicas o privadas.",
+  "terms_c6_title": "Sin uso comercial de imagen o voz",
+  "terms_c6_body": "La app no graba, almacena ni utiliza la imagen, voz o datos biométricos del usuario. Las fotografías de especies son de dominio público o uso educativo sin fines comerciales.",
+  "terms_footer_note": "Al continuar, confirmas que has leído y comprendido esta declaración. ArenIa fue desarrollada en el marco de la Hackatón Transformagob 2026, en cumplimiento de todas las bases y normativas aplicables."
+}
