@@ -361,21 +361,7 @@ class _CameraScreenState extends State<CameraScreen>
             borderColor: AppColors.cyan.withValues(alpha: 0.40),
             onTap: () => _pickImage(ImageSource.gallery),
           ),
-          const SizedBox(height: 14),
 
-          // Botón de código QR
-          _buildActionButton(
-            icon: Icons.qr_code_scanner_rounded,
-            label: 'Escanear panel QR',
-            color: AppColors.navyDark,
-            borderColor: AppColors.cyan.withValues(alpha: 0.60),
-            onTap: () {
-              Navigator.push(
-                context,
-                MaterialPageRoute(builder: (_) => const QrScannerScreen()),
-              );
-            },
-          ),
         ],
       ),
     );
