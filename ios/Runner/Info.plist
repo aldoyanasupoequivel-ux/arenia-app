@@ -47,5 +47,9 @@
 		<true/>
 		<key>UIStatusBarHidden</key>
 		<false/>
+		<key>NSCameraUsageDescription</key>
+		<string>ArenIA necesita acceso a la cámara para poder escanear e identificar a las aves en tiempo real.</string>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>ArenIA necesita acceso a tu galería por si deseas identificar un ave desde una foto guardada.</string>
 	</dict>
 </plist>
